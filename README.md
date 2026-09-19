@@ -4,6 +4,16 @@
 
 This project is a website developed for the Gen to Gen Foundation. The website provides information about the organisation, its services, and ways for users to make enquiries or contact the organisation.
 
+## Website Objectives
+
+The main objectives of the website are:
+
+- Provide visitors with information about the Gen to Gen Foundation.
+- Explain the services provided by the organisation.
+- Make it easy for visitors to submit enquiries.
+- Provide contact information for visitors.
+- Create a website that is easy to use on desktop, tablet and mobile devices.
+
 ## Website Pages
 
 - Home
@@ -32,6 +42,24 @@ The website uses separate folders for CSS, images and JavaScript files.
 The website was updated using an external CSS stylesheet. The CSS was used to improve the layout, typography, colours, navigation, forms and overall appearance of the website.
 
 Responsive design was also added using relative units and media queries so that the website can adjust to different screen sizes.
+
+## Design Choices
+
+### Colour Scheme
+
+A blue colour scheme was used throughout the website to create a consistent and professional appearance.
+
+### Typography
+
+Arial was used as the main font because it is simple and easy to read across different screen sizes.
+
+### Layout
+
+Flexbox was used for the main navigation. Content sections were organised to keep information clear and easy to follow.
+
+### User Experience
+
+The same navigation structure is used across the website pages so that visitors can move between pages easily. Hover and focus effects were also added to interactive elements.
 
 ## Responsive Design
 
@@ -71,7 +99,8 @@ Media queries were used to change the layout, navigation, font sizes and spacing
 References used during the development of the website will be listed here.
 
 - Gen to Gen Foundation. Organisation information and project content.
-- MDN Web Docs. HTML, CSS and responsive design documentation.
+- MDN Web Docs. HTML documentation and CSS documentation.
+- MDN Web Docs. Responsive design and media queries documentation.
 - W3Schools. HTML and CSS reference material.
 
 ## Testing
